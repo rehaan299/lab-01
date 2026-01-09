@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Rehaan Sharma'
+- **CCID:** `1758413`
 
 ## References and Resources
 
